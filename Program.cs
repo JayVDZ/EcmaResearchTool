@@ -15,7 +15,7 @@ List<Assembly> assemblies = new();
 foreach (var dll in Directory.GetFiles(args[0]))
     assemblies.Add(Assembly.LoadFrom(dll));
 
-// enumerate the assemblies and find which one is the ECMA 2.0 management agent
+// enumerate the assemblies and find which one is the ECMA 2.x management agent
 // and which one contains the MIM libraries
 Assembly? managementAgentAssembly = null;
 Assembly? metaDirectoryAssembly = null;
