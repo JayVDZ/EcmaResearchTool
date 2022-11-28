@@ -2,7 +2,7 @@
   "profiles": {
     "EcmaSchim": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\JayVanderZant\\OneDrive - Tetron\\JIM\\MIM MA Support\\Management Agents\\Generic PowerShell\""
+      "commandLineArgs": "\"C:\\Management Agents\\Generic PowerShell\""
     }
   }
 }
