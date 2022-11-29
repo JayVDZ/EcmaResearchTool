@@ -432,3 +432,4 @@ Vagrantfile
 .env
 
 *.exe
+Properties/launchSettings.json
