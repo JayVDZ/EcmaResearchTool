@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Linq;
+using System.Reflection;
 
 namespace EcmaResearchTool
 {
@@ -38,7 +40,7 @@ namespace EcmaResearchTool
                 return;
             }
 
-            object? capabilities = capabilityProperty.GetValue(managementAgent);
+            object capabilities = capabilityProperty.GetValue(managementAgent);
             var x = 1;
         }
     }

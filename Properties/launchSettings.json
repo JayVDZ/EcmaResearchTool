@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "EcmaSchim": {
+    "Ecma Research Tool": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Management Agents\\Generic PowerShell\""
+      "commandLineArgs": "\"C:\\Users\\JayVanderZant\\OneDrive - Tetron\\JIM\\MIM MA Support\\Management Agents\\Generic PowerShell\""
     }
   }
 }
